@@ -1,0 +1,21 @@
+.Projects {
+  width: 100%;
+  height: auto;
+}
+/* .timesheet {
+  height: 200%;
+  border: 2px solid black;
+  padding: 10%;
+} */
+.timesheet h1 {
+  margin-bottom: 50px;
+}
+
+.input-group {
+  width: 200px;
+  height: 40px;
+  margin-bottom: 4%;
+}
+.select-option {
+  margin-right: 20px;
+}
