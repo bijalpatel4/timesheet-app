@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/timesheet-app/static/css/main.69d916e6.chunk.css",
+    "main.js": "/timesheet-app/static/js/main.d8c3cc7c.chunk.js",
+    "main.js.map": "/timesheet-app/static/js/main.d8c3cc7c.chunk.js.map",
+    "runtime-main.js": "/timesheet-app/static/js/runtime-main.b8db17fc.js",
+    "runtime-main.js.map": "/timesheet-app/static/js/runtime-main.b8db17fc.js.map",
+    "static/css/2.1c29a7ee.chunk.css": "/timesheet-app/static/css/2.1c29a7ee.chunk.css",
+    "static/js/2.afb75d43.chunk.js": "/timesheet-app/static/js/2.afb75d43.chunk.js",
+    "static/js/2.afb75d43.chunk.js.map": "/timesheet-app/static/js/2.afb75d43.chunk.js.map",
+    "index.html": "/timesheet-app/index.html",
+    "precache-manifest.3c44cdc539652959eab645725295d334.js": "/timesheet-app/precache-manifest.3c44cdc539652959eab645725295d334.js",
+    "service-worker.js": "/timesheet-app/service-worker.js",
+    "static/css/2.1c29a7ee.chunk.css.map": "/timesheet-app/static/css/2.1c29a7ee.chunk.css.map",
+    "static/css/main.69d916e6.chunk.css.map": "/timesheet-app/static/css/main.69d916e6.chunk.css.map",
+    "static/media/logo.png": "/timesheet-app/static/media/logo.8c822da7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8db17fc.js",
+    "static/css/2.1c29a7ee.chunk.css",
+    "static/js/2.afb75d43.chunk.js",
+    "static/css/main.69d916e6.chunk.css",
+    "static/js/main.d8c3cc7c.chunk.js"
+  ]
+}
